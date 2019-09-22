@@ -1,0 +1,3 @@
+#!/bin/bash
+nordvpn disconnect
+nordvpn status

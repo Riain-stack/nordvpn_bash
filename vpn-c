@@ -1,0 +1,4 @@
+#!/bin/bash
+nordvpn login
+nordvpn connect
+nordvpn status
